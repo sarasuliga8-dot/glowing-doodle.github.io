@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -L \"https://sarasuliga8.github.io/images/banner.jpg\" -o \"C:/Users/Sara/Documents/glowing-doodle/glowing-doodle.github.io/images/banner.jpg\" --silent --write-out \"%{http_code}\")"
+    ]
+  }
+}
